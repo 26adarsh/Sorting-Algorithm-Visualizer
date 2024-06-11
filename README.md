@@ -42,6 +42,7 @@ Make sure you have Python and Tkinter installed.
 - Set the visualization speed using the speed scale.
 - Click "Start" to begin the sorting visualization.
   ![Sorting algorithm](Sorting.png)
+- Sorted Algorithm.
   ![Sorted algorithm](Sorted.png)
 
 
