@@ -35,12 +35,16 @@ Make sure you have Python and Tkinter installed.
 2. **Using the GUI:**
 
 - Select an algorithm from the dropdown menu.
+  ![Selecting algorithm](selecting.png)
 - Adjust the size, minimum value, and maximum value of the array.
 - Use the "Generate" button to create a new random array.
+ ![Generating random numbers before sorting](Generate.png)
 - Set the visualization speed using the speed scale.
 - Click "Start" to begin the sorting visualization.
+  ![Sorting algorithm](Sorting.png)
+  ![Sorted algorithm](Sorted.png)
 
-![Generating random numbers before sorting](Generate.png)
+
 ## File Structure
 
 - sorting.py: The main script to run the visualizer.
