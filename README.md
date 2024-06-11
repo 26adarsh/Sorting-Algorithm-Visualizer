@@ -40,7 +40,7 @@ Make sure you have Python and Tkinter installed.
 - Set the visualization speed using the speed scale.
 - Click "Start" to begin the sorting visualization.
 
-![Generating random numbers before sorting](Generate no.png)
+![Generating random numbers before sorting](Generate.png)
 ## File Structure
 
 - sorting.py: The main script to run the visualizer.
